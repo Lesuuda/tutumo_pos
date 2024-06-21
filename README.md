@@ -1,8 +1,6 @@
-Sure, here is a comprehensive README for your POS system project:
-
 ---
 
-# Liquor Store Point of Sale (POS) System
+# Tutumo Liquor Store Point of Sale (POS) System
 
 ## Overview
 
