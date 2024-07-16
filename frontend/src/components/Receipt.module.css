@@ -1,0 +1,8 @@
+.receipt {
+  width: 40px;
+  height: 40px;
+  background-image: url("/public/receipt@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

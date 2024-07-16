@@ -1,0 +1,12 @@
+.doorbellIcon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 34px;
+  height: 34px;
+  object-fit: cover;
+}
+.loginInformation {
+  width: 34px;
+  height: 34px;
+}
